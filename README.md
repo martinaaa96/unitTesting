@@ -1,7 +1,7 @@
 # unitTesting
 Unit Testing Exercise:
 
-## JS Unit Testing:\
+## JS Unit Testing:
 Mocha
 Assertion frameworks (perform checks):
 Chai
